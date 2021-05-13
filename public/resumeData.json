@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name": "Shrey Vakil",
+    "occupation": "3rd year Student studying Computer Science @ UofT",
+    "description": "Currently seeking a 12 month software developer internship to gain industry experience and improve my skills",
+    "image": "profilepic.jpg",
+    "bio": "I am a 3rd year Computer Science and Mathematics student at University of Toronto, who loves working on web apps and has keen interest in the field of information security. In my free time, I love to work on CTFs and play Valorant ;)",
+    "contactmessage": "Wanna queue up, work on projects or just get in touch. Write me here!",
+    "email": "shrey.vakil@mail.utoronto.ca",
+    "phone": "647-656-8511",
+    "address": {
+      "city": "Toronto",
+      "state": "ON"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1_vfY2T8kiJ2EGWsU9byzXS9x1E2FjkhL/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shrey-vakil-22a1b7175/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/lx1922",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are some technologies that I love to use...",
+    "education": [
+      {
+        "school": "University of Toronto at Mississauga",
+        "degree": "Bachelor's of Science -- Computer Science Specialist",
+        "graduated": "Sept 2018 - Apr 2022",
+        "gpa": "CGPA: 3.15"
+      }
+    ],
+    "work": [
+      {
+        "company": "University of Toronto",
+        "title": "Teaching Assistant",
+        "years": "Sept 2020 - April 2021",
+        "description": "Conducted Tutorials for students to understand lecture concepts and clear any doubts. Marked assignments, problem sets and tests. Developed assignments and helped professors identify potential problems and solutions to the same. \nCourses:  Systems Programming, Theory of Computation"
+      },
+      {
+        "company": "Robert Gillespie Academic Skills Center",
+        "title": "Programs and Initiatives Coordinator",
+        "years": "Sept 2019 - April 2020",
+        "description": "Worked with the Robert Gillespie Academic Skills Centre (RGASC). Planned and Organized Workshops, conducted surveys to determine the effectiveness of the conducted workshops. Tabled and reached out to students to make them aware of the support provided by the RGASC"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "image": "/GitHub-Mark/PNG/GitHub-Mark-Light-120px-plus.png",
+        "description": "I use GIT with most of my projects to maintain a backup and version correctness across the timeline."
+      },
+      {
+        "name": "HTML",
+        "image": "/HTML5.png",
+        "description": "I have a lot of experience with HTML since I have worked on a lot web apps where one of the main ingridients was HTML."
+      },
+      {
+        "name": "ReactJs",
+        "image": "/ReactJS.png",
+        "description": "I am fairly new to ReactJS but I have some projects under my belt to show off some of my react skills."
+      },
+      {
+        "name": "CSS",
+        "image": "/CSS.png",
+        "description": "I have a lot of experience with CSS as well, as CSS follows HTML."
+      },
+      {
+        "name": "SASS",
+        "image": "/sass.png",
+        "description": "I learnt SASS to make CSS easier. Especially the nested syntax which allows us to perform a wider array of functions."
+      },
+      {
+        "name": "PHP",
+        "image": "/php.png",
+        "description": "Under the course of web dev, I learnt PHP to get a deeper understanding into how the MVC model works."
+      },
+      {
+        "name": "Python",
+        "image": "/Python.png",
+        "description": "I started my programming journey with Python. Therefore, I have a lot of projects which I have worked on using Python in the past 3 years."
+      },
+      {
+        "name": "Java",
+        "image": "/Java.png",
+        "description": "I started my programming journey with Python. Therefore, I have a lot of projects which I have worked on using Python in the past 3 years."
+      },
+      {
+        "name": "C",
+        "image": "/c.png",
+        "description": "I started my programming journey with Python. Therefore, I have a lot of projects which I have worked on using Python in the past 3 years."
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Under Works",
+        "category": "",
+        "image": "under.png",
+        "url": "example.com"
+      },
+      {
+        "title": "Under Works",
+        "category": "",
+        "image": "under.png",
+        "url": "example.com"
+      },
+      {
+        "title": "Under Works",
+        "category": "",
+        "image": "under.png",
+        "url": "example.com"
+      },
+      {
+        "title": "Under Works",
+        "category": "",
+        "image": "under.png",
+        "url": "example.com"
+      }
+    ]
+  }
+}
