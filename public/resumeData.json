@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Shrey Vakil",
-    "occupation": "3rd year Student studying Computer Science @ UofT",
-    "description": "Currently seeking a 12 month software developer internship to gain industry experience and improve my skills",
-    "image": "profilepic.jpg",
-    "bio": "I am a 3rd year Computer Science and Mathematics student at University of Toronto, who loves working on web apps and has keen interest in the field of information security. In my free time, I love to work on CTFs and play Valorant ;)",
+    "occupation": "4th year Student studying Computer Science @ UofT",
+    "description": "Currently interning at Dayforce Ceridian as a Software Developer",
+    "image": "me.jpg",
+    "bio": "I am a 4th year Computer Science and Mathematics student at University of Toronto, who loves working on web apps and has keen interest in the field of information security. In my free time, I love to work on CTFs and play Valorant ;)",
     "contactmessage": "Wanna queue up, work on projects or just get in touch. Write me here!",
     "email": "shrey.vakil@mail.utoronto.ca",
     "phone": "647-656-8511",
@@ -39,10 +39,16 @@
     ],
     "work": [
       {
+        "company": "Dayforce Ceridian",
+        "title": "Software Developer - Intern",
+        "years": "Sept 2021",
+        "description": "Developed 3 of internal tools used by the QA team to test APIs and perform regression by comparing more than 1000 files each with more than 50,000 lines.\n Wrote automation test cases using the fitnesse framework."
+      },
+      {
         "company": "University of Toronto",
         "title": "Teaching Assistant",
-        "years": "Sept 2020 - April 2021",
-        "description": "Conducted Tutorials for students to understand lecture concepts and clear any doubts. Marked assignments, problem sets and tests. Developed assignments and helped professors identify potential problems and solutions to the same. \nCourses:  Systems Programming, Theory of Computation"
+        "years": "Sept 2020 - April 2021, Sept 2021 - April 2022",
+        "description": "Conducted Tutorials for students to understand lecture concepts and clear any doubts. Marked assignments, problem sets and tests. Developed assignments and helped professors identify potential problems and solutions to the same. \nCourses:  Systems Programming, Theory of Computation, Computery Security"
       },
       {
         "company": "Robert Gillespie Academic Skills Center",
@@ -54,7 +60,7 @@
     "skills": [
       {
         "name": "Git",
-        "image": "/GitHub-Mark/PNG/GitHub-Mark-Light-120px-plus.png",
+        "image": "/GitHub-Mark/PNG/GitHub-Mark-120px-plus.png",
         "description": "I use GIT with most of my projects to maintain a backup and version correctness across the timeline."
       },
       {
@@ -96,16 +102,21 @@
         "name": "C",
         "image": "/c.png",
         "description": "I started my programming journey with Python. Therefore, I have a lot of projects which I have worked on using Python in the past 3 years."
+      },
+      {
+        "name": "C#",
+        "image": "/csharp.png",
+        "description": "I started my programming journey with Python. Therefore, I have a lot of projects which I have worked on using Python in the past 3 years."
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Under Works",
+        "title": "ActNow",
         "category": "",
-        "image": "under.png",
-        "url": "example.com"
+        "image": "logo.svg",
+        "url": "https://act-now.netlify.app/"
       },
       {
         "title": "Under Works",

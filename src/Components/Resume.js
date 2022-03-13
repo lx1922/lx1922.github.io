@@ -16,23 +16,19 @@ class Resume extends Component {
             <p>{work.description}</p>
         </div>
       })
-      var skills = this.props.data.skills.map(function(skills){
+      var skills1 = this.props.data.skills.slice(0, 5).map(function(skills){
         var className = skills.name.toLowerCase();
         var image = "images/skills"+skills.image;
-        // return <li key={skills.name}><span>{skills.description}</span><em>{skills.name}</em></li>
-        return <li><div className="card">
-            <div className="face face1">
-                <div className="content">
-                    <img src={image} />
-                    <h3>{skills.name}</h3>
-                </div>
-            </div>
-            <div className="face face2">
-                 <div className="content">
-                    <p>{skills.description}</p>
-            </div>
-            </div>
-            </div></li>
+       
+        return <img src={image}></img>
+
+      })
+      var skills2 = this.props.data.skills.slice(5, 10).map(function(skills){
+        var className = skills.name.toLowerCase();
+        var image = "images/skills"+skills.image;
+       
+        return <img src={image}></img>
+
       })
     }
 
@@ -80,7 +76,12 @@ class Resume extends Component {
 
 				<div className="bars">
 				  <ul className="skills">
-					  {skills}
+            <div className="frame">
+					    {skills1}
+            </div>
+            <div className="frame">
+					    {skills2}
+            </div>
 					</ul>
 				</div>
 			</div>
